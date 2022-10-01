@@ -9,6 +9,8 @@ Features:
 - Tutorial system
 - Test mode that lets you watch the AI play itself
 
+### [Download latest Windows build](https://github.com/andreaswitzen/4X-Demo/releases/download/v1.0.0/4X-Demo.v1.0.0.zip)
+
 ## Screenshots
 
 ![image0](https://user-images.githubusercontent.com/6855253/185652872-e10bce79-8ba8-4efb-a9ce-22fef43287a7.png)
