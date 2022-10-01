@@ -3,11 +3,9 @@
 A small demo 4X strategy game made in Unity in 2021-2022.
 
 Features:
-- Turn-based 4X gameplay
-- Simple AI opponent
-- Dynamic user interface
-- Tutorial system
-- Test mode that lets you watch the AI play itself
+- Turn-based 4X gameplay against a simple AI opponent.
+- A tutorial system and dynamic user interface that teaches you how to play.
+- A test mode that lets you watch the AI play itself.
 
 ### [Download latest Windows build](https://github.com/andreaswitzen/4X-Demo/releases/download/v1.0.0/4X-Demo.v1.0.0.zip)
 
