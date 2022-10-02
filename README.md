@@ -3,7 +3,7 @@
 A small demo 4X strategy game made in Unity in 2021-2022.
 
 Features:
-- Turn-based 4X gameplay against a simple AI opponent.
+- Turn-based 4X gameplay facing a simple AI opponent.
 - A tutorial system and dynamic user interface that teaches you how to play.
 - A test mode that lets you watch the AI play itself.
 
