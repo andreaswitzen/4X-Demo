@@ -7,7 +7,7 @@ Features:
 - A tutorial system and dynamic user interface that teaches you how to play.
 - A test mode that lets you watch the AI play itself.
 
-### [Download Windows build](https://github.com/andreaswitzen/4X-Demo/releases/download/v1.0.0/4X-Demo.v1.0.0.zip)
+### [Download Windows build](https://github.com/andreaswitzen/4X-Demo/releases/download/v1.1.0/4X-Demo.v1.1.0.zip)
 
 ## Screenshots
 
