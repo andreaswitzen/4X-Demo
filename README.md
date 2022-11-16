@@ -11,7 +11,6 @@ Features:
 
 ## Screenshots
 
-![image0](https://user-images.githubusercontent.com/6855253/185652872-e10bce79-8ba8-4efb-a9ce-22fef43287a7.png)
-![image1](https://user-images.githubusercontent.com/6855253/185653141-870a7071-c7c5-4f60-8c45-11fe5cc0f080.png)
-![image2](https://user-images.githubusercontent.com/6855253/185653160-b3973fa5-5725-4e16-84df-2b6ac259deda.png)
-![image3](https://user-images.githubusercontent.com/6855253/185653168-44d02a05-21d3-4d72-bb75-4726397f798e.png)
+![image0](https://user-images.githubusercontent.com/6855253/202220423-5c3ac107-eb08-4b5c-b945-f7e1803f0b48.png)
+![image1](https://user-images.githubusercontent.com/6855253/202220432-19255e4e-fbba-4d0f-b026-6f773360add7.png)
+![image2](https://user-images.githubusercontent.com/6855253/202220435-0b50e347-8dba-46ed-9719-249541251d68.png)
