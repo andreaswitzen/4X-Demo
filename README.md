@@ -9,6 +9,11 @@ Features:
 
 ### [Download Windows build](https://github.com/andreaswitzen/4X-Demo/releases/download/v1.1.0/4X-Demo.v1.1.0.zip)
 
+## Video
+
+https://user-images.githubusercontent.com/6855253/203825282-1953b174-65be-484e-ad74-746bf1f0a1cf.mp4
+
+
 ## Screenshots
 
 ![image0](https://user-images.githubusercontent.com/6855253/202220423-5c3ac107-eb08-4b5c-b945-f7e1803f0b48.png)
