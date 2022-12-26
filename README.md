@@ -1,6 +1,6 @@
 # 4X-Demo
 
-A small demo 4X strategy game made in Unity in 2021-2022.
+A small 4X strategy demo game made in Unity in 2021-2022.
 
 Features:
 - Turn-based 4X gameplay facing a simple AI opponent.
